@@ -109,9 +109,13 @@ body{
     background-position: center;
     background-color: hsl(277, 64%, 43%);
     overflow: hidden;
+    box-sizing: border-box;
+    border-radius: 0 20px 20px 0;
 }
 
 #main{
     opacity: 0.4;
     margin-right: 40px;
+    box-sizing: border-box;
+    border-radius: 0 20px 20px 0;
 }
